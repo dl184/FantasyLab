@@ -18,9 +18,8 @@ public class clericsTest {
 
         @Before
         public void setUp() {
-            cleric = new Cleric("Jozan", 85, 5, 100);
+            cleric = new Cleric("Jozan", 85, 100);
 //        castle = new Castle("Hustle Castle");
-//        weapon = new Weapon("Axe");
         }
 
         @Test
@@ -33,10 +32,6 @@ public class clericsTest {
             assertEquals(85, cleric.getDamageValue());
         }
 
-        @Test
-        public void hasAttackValue() {
-            assertEquals(5, cleric.getAttackValue());
-        }
 
         @Test
         public void hasHealthValue() {
