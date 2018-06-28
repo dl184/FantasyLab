@@ -1,4 +1,7 @@
 package Interfaces;
 
-public interface IDamage {
+public interface iDamage {
+
+    void takeDamage(int attackPoints);
 }
+
