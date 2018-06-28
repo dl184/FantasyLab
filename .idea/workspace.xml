@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42a4bd47-7a06-4f4d-97f0-be66a614461d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Characters/Cleric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Characters/Dwarves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Characters/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Characters/Warlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Characters/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/charactersTests/castleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interfaces/IDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IDamage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/charactersTests/clericsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/charactersTests/clericsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/charactersTests/dwarvesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/charactersTests/dwarvesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/charactersTests/knightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/charactersTests/knightTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/charactersTests/warlocksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/charactersTests/warlocksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/charactersTests/wizardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/charactersTests/wizardsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/charactersTests/clericsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/charactersTests/clericsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/charactersTests/dwarvesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/charactersTests/dwarvesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/charactersTests/knightTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/charactersTests/knightTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/charactersTests/warlocksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/charactersTests/warlocksTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/charactersTests/wizardsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/charactersTests/wizardsTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="42a4bd47-7a06-4f4d-97f0-be66a614461d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,36 +13,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="castleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/charactersTests/castleTest.java">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IDamage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IDamage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barbarianTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/charactersTests/barbarianTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" column="51" lean-forward="true" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-8402" />
           </provider>
         </entry>
       </file>
@@ -131,6 +85,11 @@
             <path>
               <item name="fantasyLab" type="b2602c69:ProjectViewProjectNode" />
               <item name="fantasyLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantasyLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantasyLab" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fantasyLab" type="b2602c69:ProjectViewProjectNode" />
@@ -509,30 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Barbarian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Knight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -541,13 +476,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Dwarves.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Warlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
@@ -576,13 +504,6 @@
             <element signature="e#860#861#0" expanded="true" />
             <element signature="e#919#920#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Cleric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -681,6 +602,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IDamage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Warlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Cleric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Characters/Barbarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/charactersTests/castleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -691,11 +657,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IDamage.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
+        <state relative-caret-position="-8402" />
       </provider>
     </entry>
   </component>
