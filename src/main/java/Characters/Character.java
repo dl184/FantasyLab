@@ -42,4 +42,8 @@ public abstract class Character implements IAttack, IDamage, IHeal, IDefend {
     public int getHealthValue() {
         return healthValue;
     }
+
+    public void setAttackValue(int attackValue) {
+        this.attackValue = attackValue;
+    }
 }

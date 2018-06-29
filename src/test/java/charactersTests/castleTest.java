@@ -12,18 +12,15 @@ import static junit.framework.TestCase.assertEquals;
 
 public class castleTest{
 
-    public class castleTest {
-
         Weapon cannon;
         Castle castle;
         Barbarian barbarian;
-        }
 
     @Before
     public void setUp() {
-        Weapon cannon = new Weapon("Cannon");
-        Castle castle = new Castle("Greyskull", 1000);
-        Barbarian barbarian = new Barbarian("Conan", 20, 50, 100);
+        cannon = new Weapon("Cannon");
+        castle = new Castle("Greyskull", 1000);
+        barbarian = new Barbarian("Conan", 20, 50, 100);
         }
 
     @Test
@@ -33,6 +30,14 @@ public class castleTest{
 
     @Test
     public void castlHasName() {
-        assertEquals("Greyskull");
+        assertEquals("Greyskull", castle.getName());
     }
+
+    @Test
+    public void barbarianCanAttackCastle() {
+        barbarian.attack((IDamage) castle);
+        assertEquals(950, castle.getHealthValue());
+    }
+
+
 }

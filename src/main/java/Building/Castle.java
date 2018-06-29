@@ -5,9 +5,11 @@ public class Castle {
     private int healthValue;
     private String name;
 
-    public Castle(){
+    public Castle(String name, int healthValue){
         this.healthValue = 1000;
+        this.name = name;
     }
+
 
     public String getName() {
         return name;
@@ -17,7 +19,7 @@ public class Castle {
         return healthValue;
     }
 
-    public int getCastleHealthValue(){
+    public int getCastleHealth(){
     return healthValue;
     }
 
